@@ -20,6 +20,7 @@ import android.view.animation.DecelerateInterpolator;
 
 import java.util.List;
 
+import mikodes.watch.earns.luckywheel.R;
 import rubikstudio.library.model.LuckyItem;
 
 /**

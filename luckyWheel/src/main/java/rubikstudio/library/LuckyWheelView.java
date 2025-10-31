@@ -12,6 +12,7 @@ import android.widget.RelativeLayout;
 
 import java.util.List;
 
+import mikodes.watch.earns.luckywheel.R;
 import rubikstudio.library.model.LuckyItem;
 
 /**
